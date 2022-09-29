@@ -1,4 +1,4 @@
-# gradle-git
+# gradle-pages
 
 [![Bintray](https://img.shields.io/bintray/v/ajoberstar/maven/gradle-git.svg?style=flat-square)](https://bintray.com/ajoberstar/maven/gradle-git/_latestVersion)
 [![Travis](https://img.shields.io/travis/ajoberstar/gradle-git.svg?style=flat-square)](https://travis-ci.org/ajoberstar/gradle-git)
